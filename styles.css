@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(235, 177, 101);
+}
+
+h1 {
+    color: rgb(122, 179, 152);
+}
+
+.topHeaderColor {
+    color: white;
+}
+
+p {
+    color: rgb(72, 73, 1);
+    font-optical-sizing: 20px;
+}
+
+h3 {
+    color: cornflowerblue;
+    font-optical-sizing: xx-large;
+}
+
+.contactFont {
+    font-size: 40px;
+}
+
+.gallery {
+    margin: 5px;
+    border: 1px solid rgb(165, 78, 78)
+}
+
+.imageAlign {
+    float: right;
+    margin-right: 25%;
+}
+
+.aboutMeText {
+    color: seagreen;
+    font-optical-sizing: xx-large;
+}
