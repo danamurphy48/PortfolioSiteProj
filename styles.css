@@ -3,16 +3,18 @@ body {
 }
 
 h1 {
-    color: rgb(122, 179, 152);
+    color: rgb(45, 99, 74);
+    padding: 0.1rem;
 }
 
 .topHeaderColor {
     color: white;
+    padding: .1rem;
 }
 
 p {
     color: rgb(72, 73, 1);
-    font-optical-sizing: 20px;
+    font-size: 1.2rem; 
 }
 
 h3 {
@@ -32,12 +34,17 @@ h3 {
 .imageAlign {
     float: right;
     margin-right: 25%;
+    margin-left: 10%;
+    align-items: center;
 }
 
 .aboutMeText {
-    color: seagreen;
-    font-optical-sizing: xx-large;
+    font-size: 1.2rem;
     float: left;
+    margin-right: 25%;
+    border-style: solid;
+    border:black;
+    border-width: thick;
 }
 
 nav {
@@ -61,3 +68,9 @@ a:hover {
     text-decoration: none;
     color: salmon;
 }
+
+a {
+    font-size: 1.2rem;
+}
+
+/*colors seafoam, salmon, rgb(45, 99, 74), rgb(122, 179, 152);*/
