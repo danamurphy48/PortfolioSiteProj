@@ -38,3 +38,24 @@ h3 {
     color: seagreen;
     font-optical-sizing: xx-large;
 }
+
+nav {
+    margin: 0;
+    padding: 14px 16px;
+    width: 100%;
+    background-color: rgb(45, 99, 74);
+    box-sizing: border-box;
+    /*display: inline-flex;
+    position: relative;*/
+    /*float: left;*/
+    text-align: center;    
+}
+
+nav a {
+    padding: 14px 16px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
