@@ -37,6 +37,7 @@ h3 {
 .aboutMeText {
     color: seagreen;
     font-optical-sizing: xx-large;
+    float: left;
 }
 
 nav {
@@ -56,6 +57,7 @@ nav a {
     color: white;
 }
 
-a {
+a:hover {
     text-decoration: none;
+    color: salmon;
 }
