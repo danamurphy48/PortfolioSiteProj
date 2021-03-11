@@ -73,4 +73,14 @@ a {
     font-size: 1.2rem;
 }
 
+input[type=text] {
+    margin: 5px 0px;
+    padding: 3px;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: rgb(233, 203, 165); 
+    border: none;
+    border-bottom: 2px solid rgb(45, 99, 74);
+}
+
 /*colors seafoam, salmon, rgb(45, 99, 74), rgb(122, 179, 152);*/
